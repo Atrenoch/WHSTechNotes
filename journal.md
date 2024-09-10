@@ -1,3 +1,7 @@
+# September 10, 2024
+
+This is a sample entry.
+
 A video game that I really enjoy playing is The Elder Scrolls V Skyrim. 
 I love the fact that the land is so diverse, and there are many different damage type systems.
 The Magic system is extremely diverse, and it gives a great feeling when you use magika.
