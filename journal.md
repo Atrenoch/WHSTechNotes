@@ -1,3 +1,6 @@
+# September 17, 2024
+
+This is a free week.
 
 # September 10, 2024
 
