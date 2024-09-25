@@ -1,3 +1,11 @@
+# September 23, 2024
+
+Following instructions while coding can really help to make sure you get the right result, curriculum, and to develop good habits while coding.
+Precision affects the outcome of coding, by if you made a tiny little mistake and it was not what you are being told to code, it can create an error, or change the code entirely.
+If there are missing details in the code, then there could either be a different successful output, or an error that won't run your code.
+It is important to develop good habits while coding early on, so that you can end up becoming the best possible coder you can be, and to learn to understand the code effieciently.
+With these three pieces, we can conclude that making sure you correctly develop code while learning enhances your ability to perform on later coding projects.
+
 # September 17, 2024
 
 This is a free week.
