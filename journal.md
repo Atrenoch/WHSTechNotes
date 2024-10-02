@@ -1,3 +1,7 @@
+# September 30, 2024
+
+Life in today's time and age would be extremely difficult to live without computer science. Every day I send messages to my mom over text while at school, or use Unreal Engine 5 for game design; taking a picture uses computer science, mapping where the color of each pixel will be in the image. Life without computer science in my opion would not be as safe, and would also be very boring, because we are now so used to using technology with computer science every day.
+
 # September 23, 2024
 
 Following instructions while coding can really help to make sure you get the right result, curriculum, and to develop good habits while coding.
