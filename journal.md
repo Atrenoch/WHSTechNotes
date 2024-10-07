@@ -1,3 +1,7 @@
+# October 7, 2024
+
+Game Designer is a collaborator in a collaboration / team or company that create games for entertainment. Most game design degrees require a Bachelor's degree, and knowledge in the coding language C++ as well as knowing how to use game design engines such as Unreal Engine or Unity. Opportunites with this career extend to leadership roles, specializing in a specific area of Game Design, etc. I would absolutely love to become a Game Designer, the role has facinated me for a good long while, and the outcomes can be so diverse in the world of game design.
+
 # September 30, 2024
 
 Life in today's time and age would be extremely difficult to live without computer science. Every day I send messages to my mom over text while at school, or use Unreal Engine 5 for game design; taking a picture uses computer science, mapping where the color of each pixel will be in the image. Life without computer science in my opion would not be as safe, and would also be very boring, because we are now so used to using technology with computer science every day.
