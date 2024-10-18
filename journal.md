@@ -1,3 +1,9 @@
+# October 16, 2024
+
+Coding can impprove problem solving skills, because most of the time when coding, you are either trying to create something or solve a problem while coding if it doesn't work.
+Coding can help in the industry of finance by building a bigger cognitive ability in your brain, allowing you to complete complex task unlike before.
+Coding enhances creaativity by giving you the abilty to make whatever you want in code, like a game or a application that can run complex tasks. Collaboration is enhanced by being able to think outside the box with people once your problem solving abilities are improved. Large game design firms will come together in group projects to make something that is not as limited as one person's brain can make. Even people in the stock market might benefit from this to collaborate and quickely solve problems to make the best amount of money they can.
+
 # October 7, 2024
 
 Game Designer is a collaborator in a collaboration / team or company that create games for entertainment. Most game design degrees require a Bachelor's degree, and knowledge in the coding language C++ as well as knowing how to use game design engines such as Unreal Engine or Unity. Opportunites with this career extend to leadership roles, specializing in a specific area of Game Design, etc. I would absolutely love to become a Game Designer, the role has facinated me for a good long while, and the outcomes can be so diverse in the world of game design.
