@@ -1,3 +1,8 @@
+# October 21, 2021
+
+AI is a growing technology, that is being used to transform the effectiveness and outcome of jobs. AI gets better and better everyday, helping businesses find ways to solve problems in software, or structure of an overall conpany. AI is beneficial for education, because if a student or techer need help with an idea or don't fully understand something, AI can come through and build answers or reasons for that thought. AI can help with transportation, by giving a better response with mapping out a destination.
+AI can be harmful too, in ways that the world is not seemingly preparing for. There has already been AI waiters at a restaraunt, there have been people using AI to pose as someone else. AI also may eventually be able to pull real peoples emails, or personal data off the intrernet. These examples are just a few of what has happened in the real world. A new thing that Tesla has been developing is the AI powered maid robot; the robot cleans the house, cooks for you, and does much more. What if the robot malfunctioned, and leaked all of a person's personal data... Cameras always active, maybe even a microphone captures the audio and visuals of a household. These are things to consider with AI now in our everyday lives, causing our privacy and humanity to be stripped away.
+
 # October 16, 2024
 
 Coding can impprove problem solving skills, because most of the time when coding, you are either trying to create something or solve a problem while coding if it doesn't work.
