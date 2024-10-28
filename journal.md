@@ -1,3 +1,7 @@
+# October 28, 2024
+
+Coding and technology impacts the Election process on a large scale. Berfore the world have electronic voting machines, every ballot had to be hand checked, (not evaluate by a machine). Needless to say, the world's election systems are so fast and reliable now, and it has made the election process a whole lot easier than before technology. The downsides of electronic ballot machines is that some poeple that just don't know or are innept in technology, have to still use paper ballots. And with the small chance someone does hack into the sytem to change votes, that would hbe a downside to using technology rather than paper. Cyber Security plays a huge role in this part of securing the software for voters. Lots of code goes into this, to ensure that everything is backed up on servers and has anti hack or jailbreak systems.
+
 # October 21, 2024
 
 AI is a growing technology, that is being used to transform the effectiveness and outcome of jobs. AI gets better and better everyday, helping businesses find ways to solve problems in software, or structure of an overall conpany. AI is beneficial for education, because if a student or techer need help with an idea or don't fully understand something, AI can come through and build answers or reasons for that thought. AI can help with transportation, by giving a better response with mapping out a destination.
