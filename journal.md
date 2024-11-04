@@ -1,3 +1,13 @@
+# November 4, 2024
+
+Why is it important to protect your personal and sensitive information when publishing online?
+It is important to protect personal and sensitive info, when publishin gonline, because people can steal you information, and they can steal your identity.
+What steps can you take to ensure that the information you share on platforms like GitHub or social media remains secure?
+Steps I can take to keep my personal info safe, is to not put my address or personal infor like social security number, etc, never put these things online.
+Have you ever shared something online that you later realized was too personal? How would you handle that differently now?
+I had an old email, and I did a survey online, and it asked personal stuff, when I started getting spam emails all the time, I learned never to do that again.
+How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy?
+At most I would say my name like on a profile, but never share addresses, financial things, or anything else personal, except what is required to complete the task, THAT IS NOT A SCAM.
 # October 28, 2024
 
 Coding and technology impacts the Election process on a large scale. Berfore the world have electronic voting machines, every ballot had to be hand checked, (not evaluate by a machine). Needless to say, the world's election systems are so fast and reliable now, and it has made the election process a whole lot easier than before technology. The downsides of electronic ballot machines is that some poeple that just don't know or are innept in technology, have to still use paper ballots. And with the small chance someone does hack into the sytem to change votes, that would hbe a downside to using technology rather than paper. Cyber Security plays a huge role in this part of securing the software for voters. Lots of code goes into this, to ensure that everything is backed up on servers and has anti hack or jailbreak systems.
