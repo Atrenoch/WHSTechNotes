@@ -1,3 +1,9 @@
+# January 8, 2025
+
+I most enjoyed making and designing games in my 3 periods 3-4-5, it really has sparked my love and passion for making games.
+I would like to just continue creating and designing projects with Unreal Engine 5, it just makes me so happy to do so.
+I may be interested in a Unity certification. but I am MOST CERTAINLY desiring to obtain an Unreal Engine 5 Certification.
+
 # December 16, 2024
 
 I am very muchg so looking forward to this winter break, I can't wait to have some time off and enjoy things other than school. I am going to be going to a restaraunt for my friend's birthday party. All in all, I think it is going to be a very good time.
