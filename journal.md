@@ -1,4 +1,4 @@
-# January 13, 2024
+# January 13, 2025
 
 AI is contantly evolving each day, and with AI interacting with computer science jobs, it can be unsettling. Although this AI scares some people, it can be benificial too. For example, if someone is working in the game design industry, AI can help with generating 3D models, and applying the texture on them too. This in turn saves a lot of time when developing a project, it can also be really useful for indie developers. But there is a downside for some jobs in the tech world, like low level coding, this is an industry that has been taken over by AI, but at the same time it has been aiding in the overall effieciency at which tasks are completed. But for me, preparing for a job position in the game designer world, I believe it would be very useful to have learned how to use AI for the reason mentioned previously. Although AI aids in developing code, that doesn't mean that going to school for whatever profession you choose won't help you... Because it will.
 
