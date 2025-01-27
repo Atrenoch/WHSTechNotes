@@ -1,3 +1,12 @@
+# January 27, 2025
+
+    | Name     | Car             | Mistake                  |
+    | :------- | :-------------- | :----------------------- |
+    | Jimmy    | Honda Civic     | Drilled Hole In Gas Tank |
+    | Kayla    | GMC Sierra      | Fixed Wrong Problem      |
+    | Bart     | Toyota Corolla  | Left Stains On Carpet    |
+    | Harrison | Subaru Forester | Left The Oil Cap Off     |
+
 # January 22, 2025
 
 I think that the govt impacts technology workers and users by choosing what is aloowed in the country. For instance hte Tik Tok ban caused many jobs to be lost, and users to be infuriated. Tik Tok probably addresses these issues by doing workarounds. The feature I would implement would be that no one not even the company has access to your profile's content, Making your profile only accessible to you. The lessons I can take from the Tik Tok ban is that if you are going to make an application, User privacy is very important to make sure it is enforced.
