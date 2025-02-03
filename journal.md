@@ -1,3 +1,8 @@
+# February 3, 2025
+
+Computers can increase aviation safety by making sure that some sort of aircraft stays within the original path or trajectory that was initially described to the pilot. If a automation such as AI in Aviation is used the entire time a flight is being commensed, then the comuputercan compute based on coordinates, whether another aircraft is coming to close. Using AI can also impoact the fuel and total travel time an aircraft has to get from one destination to the other.
+human-Computer Interaction (HCI) could also be a combined conflict in the Aviation industry. there may be a point where a Human has to take over the aircraft, but if the computer could detect that the aircraft is near another one, then the aircraft would prevent the human from taking the aircraft off course. Just as long as the aircraft stays on course and is calculated to not have any interferance with other aircrafts, then Aviation should be much safer.
+
 # January 27, 2025
 
     | Name     | Car             | Mistake                  |
