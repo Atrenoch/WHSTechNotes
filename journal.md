@@ -1,3 +1,8 @@
+# February 11, 2025
+
+An application for the NFL would include path tracing, where a computer algorithm would run plays done by players. This would be more effiecient than constantly trying to come up with a new strategey to make plays in a football game. The application would also include a data structure sorting the plays that worked great, plays that work okay, and plays that didn't work at all. The algorithm and data structure would work great together, since the algorithm could calculate a play that would work, and plays that would not work. While the data structure sorts the algorithms that were previously run, giving a list of plays that worked or didn't work.
+          A type of dashboard I would include in the application would be a dropdown that could separate and sort different types of plays that were made throughout the years of NFL games. The idea of a graph could show the success rates of different plays in an NFL game. The graph and the dashboard would work really well together, beacause it could bring together different views on how games can be played or run. With these four features listed, NFL games could become more interesting or tributes to legacy players and plays that were made in different NFL games.
+
 # February 3, 2025
 
 Computers can increase aviation safety by making sure that some sort of aircraft stays within the original path or trajectory that was initially described to the pilot. If a automation such as AI in Aviation is used the entire time a flight is being commensed, then the comuputercan compute based on coordinates, whether another aircraft is coming to close. Using AI can also impoact the fuel and total travel time an aircraft has to get from one destination to the other.
