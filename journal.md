@@ -1,3 +1,7 @@
+# February 18, 2025
+
+The most interesting thing I learned this week was in a youtube video, the video was a course tutorial on making an RPG game in Unreal Engine 5. I followed the tutorial, and ended up creating a locomotion system for my character in a game project I am making, and what I learned from it was how to set up animations properly in the animation graph, to create a seemingly fluid sequence of animations. I found it interesting, because that is what I want to do for a proffession, and also that just setting up simple animations for a character for a game is very time consuming, but the output is very nice.
+
 # February 11, 2025
 
 An application for the NFL would include path tracing, where a computer algorithm would run plays done by players. This would be more effiecient than constantly trying to come up with a new strategey to make plays in a football game. The application would also include a data structure sorting the plays that worked great, plays that work okay, and plays that didn't work at all. The algorithm and data structure would work great together, since the algorithm could calculate a play that would work, and plays that would not work. While the data structure sorts the algorithms that were previously run, giving a list of plays that worked or didn't work.
