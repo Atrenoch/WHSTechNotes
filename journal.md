@@ -1,3 +1,8 @@
+# February 24, 2025
+
+Technologuy can bridge language gaps while maintaining professionalism by enhancing communitcation with two people with diffferent languages. For example, the invention of the subtitle glasses, can aid in language barriers for a deaf person, or changing the translation to another language, and someone can understand what the other person is saying. This does have limitations though, since the glasses only display what the microphone picks up, and if only one person has the glasses, then there is a language barrier.
+           The other option for aiding in the removal of language barriers would be a translator with a ear piece, and a microphone, to speak to the person so that they can get realish time responses to the other person with the language barrier. Though this has downsides, since you have to have a third person that knows both languages, which can be quite extensive, not many people in the world are proficient or want to be a translator for special occasions.
+
 # February 18, 2025
 
 The most interesting thing I learned this week was in a youtube video, the video was a course tutorial on making an RPG game in Unreal Engine 5. I followed the tutorial, and ended up creating a locomotion system for my character in a game project I am making, and what I learned from it was how to set up animations properly in the animation graph, to create a seemingly fluid sequence of animations. I found it interesting, because that is what I want to do for a proffession, and also that just setting up simple animations for a character for a game is very time consuming, but the output is very nice.
