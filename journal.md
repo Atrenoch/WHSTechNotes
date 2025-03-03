@@ -1,3 +1,13 @@
+# March 3, 2025
+
+| Name    | Power                | Challenge             |
+| :------ | :------------------- | :-------------------- |
+| Zara    | Telkinesis           | Secure Building       |
+| Aether  | Weather Manipulation | Prevent Assassination |
+| Thorne  | Invisibility         | Underwater Rescue     |
+| Silver  | Mind Control         | Retrieve Stolen Goods |
+| Tangier | Shapeshifting        | Extract Prisoner      |
+
 # February 24, 2025
 
 Technologuy can bridge language gaps while maintaining professionalism by enhancing communitcation with two people with diffferent languages. For example, the invention of the subtitle glasses, can aid in language barriers for a deaf person, or changing the translation to another language, and someone can understand what the other person is saying. This does have limitations though, since the glasses only display what the microphone picks up, and if only one person has the glasses, then there is a language barrier.
