@@ -1,3 +1,8 @@
+# March 17, 2025
+
+I used my laptop a lot this spring break, I played games, such as Minecraft, Red Dead Redemption, Immortals Fenyx Rising, and Avatar Frontiers of Pandora. I used a TV to display movies and videos in the living room. I used a desktop computer to run those movies and videos. I even used a Nintendo 3ds to play some games that I haven't played in years. My laptop was also used for some game design in Unreal Engine 5.
+          With all this in mind, I spent most of my spring break either watching movies or videos, or playing games or doing game design. And I have been able to integrate the technology I use for game design at home, with the aid of my laptop, Since it is very portable in nature, and is quite powerful, I am successfully able to transport it and allocate my time towards game design.
+
 # March 3, 2025
 
 | Name    | Power                | Challenge             |
