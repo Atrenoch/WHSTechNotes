@@ -1,3 +1,8 @@
+# March 24, 2025
+
+The role of social media has greatly improved the engagment in the NCAA, this is helpful in a lot of ways, broadcasting, sports announcers thoughts, and news aiding in the popularity of the sport. Streaming services have greatly improved the population of people's connectivity to the sport, with adds or no adds, while watching the sport. The way that technology has been shaping sport's telecomunication is yet complete.
+          The Idea of AI incorporating into how the sports plays will go, is a new technology that is constantly growing everyday. AI can help to interpret which players will make baskets with ease, and others who will struggle. It can also interpret which team will end up on top of all the others. But it's not 100 percent perfect yet, as the AI will continue to learn and analyze how players play in games, and coordinate with their team members.
+
 # March 17, 2025
 
 I used my laptop a lot this spring break, I played games, such as Minecraft, Red Dead Redemption, Immortals Fenyx Rising, and Avatar Frontiers of Pandora. I used a TV to display movies and videos in the living room. I used a desktop computer to run those movies and videos. I even used a Nintendo 3ds to play some games that I haven't played in years. My laptop was also used for some game design in Unreal Engine 5.
