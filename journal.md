@@ -1,3 +1,7 @@
+# March 31, 2025
+
+The most stressful part of school for me right now is my class Biology AP. This class has so many field trips, and don't get me wrong, I love the field trips, but when they take out so much of your time in school it gets to be a lot. Not to mention that class has a lot of labs and work that we do, and it can be a motherload at some points. But I do like the class, esspecially since I have my friends in it with me. So this week on Wednesday, some of the students including me are going on a 3 day field trip out camping at Mckinney Roughs nature park. There will be lots to do, but I know I will have a lot of work to do when I get back to school the next week.
+
 # March 24, 2025
 
 The role of social media has greatly improved the engagment in the NCAA, this is helpful in a lot of ways, broadcasting, sports announcers thoughts, and news aiding in the popularity of the sport. Streaming services have greatly improved the population of people's connectivity to the sport, with adds or no adds, while watching the sport. The way that technology has been shaping sport's telecomunication is yet complete.
