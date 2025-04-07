@@ -1,3 +1,8 @@
+# April 7, 2025
+
+AI can help a student study, by giving the student as much study time as the student wants. This can be good if the teacher can't make it to tutoring, or if the teacher doesn't give out great study material. The AI can also efficiently find and use examples from previous year STAAR tests, or AP tests for that matter. The AI can further develop and ask questions to the student, and give detailed answers, aiding the student further in studying.
+     AI can also learn from what the student gets right and what the student gets wrong, faster than a teacher or tutor can achieve. The AI would also give answers or questions faster than a person can think or speak, further perfecting the time efficiency of studying. The AI can also give responses that the student can understaand better than high difficulty vocabulary a tutor or teacher may have. Thus further developing the students vocabulary, making it better as time goes on with the tutoring.
+
 # March 31, 2025
 
 The most stressful part of school for me right now is my class Biology AP. This class has so many field trips, and don't get me wrong, I love the field trips, but when they take out so much of your time in school it gets to be a lot. Not to mention that class has a lot of labs and work that we do, and it can be a motherload at some points. But I do like the class, esspecially since I have my friends in it with me. So this week on Wednesday, some of the students including me are going on a 3 day field trip out camping at Mckinney Roughs nature park. There will be lots to do, but I know I will have a lot of work to do when I get back to school the next week.
