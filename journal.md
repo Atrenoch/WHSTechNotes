@@ -1,3 +1,8 @@
+# April 14, 2025
+
+I believe that these bans on phones in school in Florida is detrimental to students. For instance, students need to engage with each other, and communicate beyond just in person ways. Getting use out of a phone can be good for a student, or group of students, by communicating and sharing thoughts and ideas to each other, and overall enjoy time with other students outside of class. Students might be defiant about not being alowed to use phones, and end up having a harmful mental separation from their phone.
+     Phones also can act as a form of safety, providing quick communication about events or things that happen throughout the day. If implemented in my school, I would most likely continue to carry my phone, but never pull it out throughout the day. I would keep it with me, to continue to maintain my safety, in case there is a problem and I can alert people as to what is happening.
+
 # April 7, 2025
 
 AI can help a student study, by giving the student as much study time as the student wants. This can be good if the teacher can't make it to tutoring, or if the teacher doesn't give out great study material. The AI can also efficiently find and use examples from previous year STAAR tests, or AP tests for that matter. The AI can further develop and ask questions to the student, and give detailed answers, aiding the student further in studying.
