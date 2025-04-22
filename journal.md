@@ -1,3 +1,12 @@
+# April 22, 2025
+
+Greetings, Mr. Rodriguez,
+
+I wanted to let you know how much I have apprecitated your time you have devoted to us students in your classes and field trips. It really means a lot to me, to have the hard work we do, then going into field trips is just a rewarding experience. I wanted to thank you for allowing me to take two axolotls home to the fish tank that I had pepared for them. You have given me a fun experience as a high school senior. And I want to thank you for the knowledge and fun you have given me.
+
+Thank you,
+Dylan Walters
+
 # April 14, 2025
 
 I believe that these bans on phones in school in Florida is detrimental to students. For instance, students need to engage with each other, and communicate beyond just in person ways. Getting use out of a phone can be good for a student, or group of students, by communicating and sharing thoughts and ideas to each other, and overall enjoy time with other students outside of class. Students might be defiant about not being alowed to use phones, and end up having a harmful mental separation from their phone.
