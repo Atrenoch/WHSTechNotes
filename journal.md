@@ -1,3 +1,7 @@
+# May 5, 2025
+
+In the 100 men vs 1 gorilla scenario, logically, 100 men could win. Being that there a a lot of really strong men in the world, and that 1 gorilla is strong on its own, a gorilla can only lift so much, and has a certain amount of energy. Since there is a lot of men, they can take turns holding back the gorilla while others thry to defeat the gorilla. Eventually the gorilla will tire out, and the men will have energy to keep going. So in reality it would be a very unfair fight.
+
 # April 28, 2025
 
 | Name     | Flavor    | Occasion       | Price  |
