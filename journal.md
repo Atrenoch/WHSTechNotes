@@ -1,3 +1,8 @@
+# May 12, 2025
+
+The Chromebook challenge is a new trend, where students try to shove a graphite pencil lead up a chromebook charging port. They do this in order to break the chromebook. But there are many flaws with the reprocussions that follow the bad behavior. For one thing, when turning in the chromebook to the school, they will inspect the damage done to the chromebook, and the chromebook insurrance policy does not protect it from intentional damage, so the student will have to end up paying the full price to repay the chromebook.
+The other thing that is a reprocussion is damaging school property, or just anyone elses property is bad to damage, and it is morally wrong. The thoughts that go through a students head, to be like, "Ya, I am going to do this really popular trend, it will be funny just watch!" Yet in reality, only bad news will follow from damaging school property. There could also be a legal charge being pressed on the student, because of damaging property that is not theirs. Just all in all, the chromebook challenge is a really stupid internet trend, where students have bad behavior, in which they destroy schools property, without thinking.
+
 # May 5, 2025
 
 In the 100 men vs 1 gorilla scenario, logically, 100 men could win. Being that there a a lot of really strong men in the world, and that 1 gorilla is strong on its own, a gorilla can only lift so much, and has a certain amount of energy. Since there is a lot of men, they can take turns holding back the gorilla while others thry to defeat the gorilla. Eventually the gorilla will tire out, and the men will have energy to keep going. So in reality it would be a very unfair fight.
