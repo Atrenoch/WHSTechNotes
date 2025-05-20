@@ -1,6 +1,6 @@
 # May 19, 2025
 
-I am so ready for the summber break that is coming up! I am ready to graduate high school, and experience the college life next school year. I am ready to continue to explore Unreal Engine 5 and improve my modeling skills in blender. These softwares will probably be the ones used in my degree. In this case that is why I am using them, to explore and develop something that I can hang onto forever. I can't wait to complete college and get my degree in 3D animation and game design with a concentration in modeling. This degree will be essential to me obtaining a job position in a AAA studio, and hopefully send me up on the path to success.
+I am so ready for the summer break that is coming up! I am ready to graduate high school, and experience the college life next school year. I am ready to continue to explore Unreal Engine 5 and improve my modeling skills in blender. These softwares will probably be the ones used in my degree. In this case that is why I am using them, to explore and develop something that I can hang onto forever. I can't wait to complete college and get my degree in 3D animation and game design with a concentration in modeling. This degree will be essential to me obtaining a job position in a AAA studio, and hopefully send me up on the path to success.
 
 # May 12, 2025
 
